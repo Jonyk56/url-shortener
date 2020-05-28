@@ -11,7 +11,7 @@ if ( !defined('SITE_NAME') )
 
 if ( !defined('BASE_URL') )
 {
-    define('BASE_URL', "http://myurl.com/make_it_short/");
+    define('BASE_URL', "http://sh.jonyk5-developer.tools/make_it_short/");
 }
 
 // DATABASE CONFIGURATION
@@ -23,15 +23,15 @@ if ( !defined('HOST_NAME') )
 
 if ( !defined('DB_NAME') )
 {
-    define('DB_NAME', "DATABASE_NAME");
+    define('DB_NAME', "main");
 }
 
 if ( !defined('USER_NAME') )
 {
-    define('USER_NAME', "USERNAME");
+    define('USER_NAME', "Jony");
 }
 
 if ( !defined('USER_PASSWORD') )
 {
-    define('USER_PASSWORD', "PASSWORD");
+    define('USER_PASSWORD', "fridged");
 }
